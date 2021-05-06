@@ -22,6 +22,18 @@ In order to design a realistic and artistic map for our character and our player
 # Map 2
 ![image](https://user-images.githubusercontent.com/58013489/117327825-055d6680-ae61-11eb-8477-ed82ea1a3f18.png)
 
+# Code Examples
+Below I have included the three most important chunks of code for my game:
+
+This image displays the part of our code where we initialize the camera and player variables. It also contains the keybord inputs we used to move our avatar inside the map
+![code 1](https://user-images.githubusercontent.com/58013489/117366894-6c920f80-ae8f-11eb-8fff-4e1dc59b57ec.PNG)
+
+Below is the code we used to load our character/avar, our Map, our animations, and our collision detection. 
+![loader](https://user-images.githubusercontent.com/58013489/117367161-c8f52f00-ae8f-11eb-9b83-d2503795da2c.PNG)
+
+
+
+
 ### Installation
 
 To install and play this game, perform the follwoing steps:
