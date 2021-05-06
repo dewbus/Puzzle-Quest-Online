@@ -23,7 +23,7 @@ In order to design a realistic and artistic map for our character and our player
 ![image](https://user-images.githubusercontent.com/58013489/117327825-055d6680-ae61-11eb-8477-ed82ea1a3f18.png)
 
 # Avatar
-file:///C:/Users/carlos/Desktop/PuzzleQuestOnline/android/assets/charRed.png![image](https://user-images.githubusercontent.com/58013489/117367454-34d79780-ae90-11eb-9e80-35b796446977.png)
+![image](https://user-images.githubusercontent.com/58013489/117367454-34d79780-ae90-11eb-9e80-35b796446977.png)
 
 
 # Code Examples
