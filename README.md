@@ -22,6 +22,12 @@ In order to design a realistic and artistic map for our character and our player
 # Map 2
 ![image](https://user-images.githubusercontent.com/58013489/117327825-055d6680-ae61-11eb-8477-ed82ea1a3f18.png)
 
+### Installation
+
+To install and play this game, perform the follwoing steps:
+* clone or download the code from this repository
+* import the project as an existing gradle project in android studio, Intelij, Eclipse, etc
+* Navigate to the desktop folder, then src, and open the DesktopLauncher.java file and click run
 
 ### Developed by
 - Carlos Aybar De Los Santos, Engineer
