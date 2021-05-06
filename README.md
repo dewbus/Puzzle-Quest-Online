@@ -20,7 +20,7 @@ I was motivated to create this game about a year ago because I wanted to come up
 ![image](https://user-images.githubusercontent.com/58013489/117327825-055d6680-ae61-11eb-8477-ed82ea1a3f18.png)
 
 
-### License
+### Developed by
 - Carlos Aybar De Los Santos, Engineer
 - Louis Alvarez, Engineer
 - Dr. Mondesire, Professor
