@@ -21,5 +21,7 @@ I was motivated to create this game about a year ago because I wanted to come up
 
 
 ### License
-
-STU © Carlos Aybar De Los Santos And Louis Alvares
+- Carlos Aybar De Los Santos, Engineer
+- Louis Alvarez, Engineer
+- Dr. Mondesire, Professor
+STU ©  2021
