@@ -1,9 +1,9 @@
 # Puzzle-Quest-Online
-Puzzle Quest Online is a  multi-threaded, multiplayer, 8-bit video game using Java LibGDX.
+Puzzle Quest Online is a  multi-threaded, multiplayer, 8-bit video game using Java LibGDX. The goal of this game is to work with a team, alone, or against other players in an online adventure/quest.
 
 ### Motivation
 
-I was motivated to create this game about a year ago because I wanted to come up with a virtual game, somewhat like sudoku, that people of any age, education level, and ethnicity could use to enhance their matematical and critical thinking skills.
+We created this game so that users of all ages have the opportunity to challenge themselves in order to complete this online quest with their friends, strangers, or alone. The map will make you feel like you are on an actual adventure in the real world.
 
 ### This game was built using
 
@@ -13,10 +13,13 @@ I was motivated to create this game about a year ago because I wanted to come up
 * Tiled
 
 ### Design
-* Map 1
+
+In order to design a realistic and artistic map for our character and our players to interact with, we used an plattform called Tiled, which allows you to build a map from scratch using different tilesets. This plattform allows us to add collision and annimations to some of the desired tiles. By the time we are done developing our game, our world, which consists of Map 1 and Map 2 will contain collision in the rocks, trees, walls and the waves will be animated for a more realistic experience.
+
+# Map 1
 ![image](https://user-images.githubusercontent.com/58013489/117327746-f1196980-ae60-11eb-96aa-98ec875cb315.png)
 
-* Map 2
+# Map 2
 ![image](https://user-images.githubusercontent.com/58013489/117327825-055d6680-ae61-11eb-8477-ed82ea1a3f18.png)
 
 
